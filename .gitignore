@@ -1,0 +1,9 @@
+venv/Lib/site-packages/_distutils_hack/override.py
+venv/
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/SeguridadDB.iml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/app.cpython-39.pyc
+__pycache__/config.cpython-39.pyc
